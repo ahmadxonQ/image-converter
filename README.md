@@ -37,7 +37,7 @@ A simple cross-platform Python tool that converts images to **PNG** format and c
 3. Make the script executable:
 
 first run this:
-   ```bash
+```bash
    chmod +x run_mac_linux.sh
 
 then run this:
