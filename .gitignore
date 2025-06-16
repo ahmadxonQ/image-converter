@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# Output images folder
+output/
+
+# IDE/editor settings (optional)
+.vscode/
+.idea/
+
+# Logs and misc
+*.log
+*.tmp
