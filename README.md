@@ -1,37 +1,40 @@
 # 🖼️ Image Compressor (Python Script)
 
-A simple Python script to compress and convert images to a specific size and format.
+A simple cross-platform Python tool that converts images to **PNG** format and compresses them to a maximum size of **800KB**.
 
 ## 🚀 Features
 
-- Compress images to desired size (e.g., 500KB).
-- Convert between formats (e.g., PNG, JPG, WEBP).
-- Easy to use — no need to install extra software.
+- ✅ Converts **any image format** (JPG, WEBP, HEIC, etc.) to **PNG**
+- 📉 Compresses output images up to **800KB**
+- 🖥️ Works on **Windows, macOS, and Linux**
+- ⚡ One-click launch scripts included — no terminal skills needed
 
-## 🧰 Requirements
+---
 
-- Python 3 (for running the script)
+## 📦 Requirements
+
+- **Python 3.7 or higher** installed
+
+👉 Download Python:  
+🔗 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 ---
 
 ## 🪟 How to Run on **Windows**
 
-1. Download and install Python 3:  
-   👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
-
+1. Install Python 3 from [python.org](https://www.python.org/downloads/).
 2. Download the `image-converter` project.
+3. Double-click `run_windows.bat`.
 
-3. Find and double-click `run_windows.bat`.
-
-✅ Done — the script should now run automatically.
+✅ That’s it — the app will launch and begin processing images.
 
 ---
 
 ## 🍎 How to Run on **macOS / Linux**
 
-1. Download the `image-converter` project and open it in Terminal.
-
-2. Make the script executable:
+1. Install Python 3 from [python.org](https://www.python.org/downloads/).
+2. Open Terminal and navigate to the downloaded `image-converter` folder.
+3. Make the script executable:
 
    ```bash
    chmod +x run_mac_linux.sh
