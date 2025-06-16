@@ -38,3 +38,6 @@ A simple cross-platform Python tool that converts images to **PNG** format and c
 
    ```bash
    chmod +x run_mac_linux.sh
+
+   ```bash
+   ./run_mac_linux.sh
