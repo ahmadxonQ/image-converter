@@ -4,7 +4,7 @@ A simple cross-platform Python tool that converts images to **PNG** format and c
 
 ## 🚀 Features
 
-- ✅ Converts **any image format** (JPG, WEBP, HEIC, etc.) to **PNG**
+- ✅ Converts **any image format** (JPG, WEBP, HEIC, etc.) to **JPG**
 - 📉 Compresses output images up to **800KB**
 - 🖥️ Works on **Windows, macOS, and Linux**
 - ⚡ One-click launch scripts included — no terminal skills needed
